@@ -21,7 +21,7 @@ public class MailSendToException {
 			empId1 ="</br><p style='font-family: arial; font-size: 14px;opacity:12;text-decoration:none;'>Emp ID - "+empID+"</br>";
 		}
 		final String emailId = "vivekdiscover16@gmail.com";
-		final String emailPass = "vkkkkkkkkkkkkkk";
+		final String emailPass = "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv";
 		String host = "smtp.gmail.com";
 		Properties props = new Properties();
 		props.put("mail.smtp.starttls.enable", "true");
